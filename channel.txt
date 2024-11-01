@@ -1,0 +1,180 @@
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV1.png" group-title="央视",CCTV1
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV2.png" group-title="央视",CCTV2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1,tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV3.png" group-title="央视",CCTV3
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1,tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV4.png" group-title="央视",CCTV4
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV5.png" group-title="央视",CCTV5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1,tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV5+.png" group-title="央视",CCTV5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1,tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV6.png" group-title="央视",CCTV6
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV7.png" group-title="央视",CCTV7
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1,tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV8.png" group-title="央视",CCTV8
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1,tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV9.png" group-title="央视",CCTV9
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1,tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV10.png" group-title="央视",CCTV10
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1,tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV11.png" group-title="央视",CCTV11
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1,tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV12.png" group-title="央视",CCTV12
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1,tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV13.png" group-title="央视",CCTV13
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1,tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV14.png" group-title="央视",CCTV14
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1,tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV15.png" group-title="央视",CCTV15
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1,tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV16.png" group-title="央视",CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV17.png" group-title="央视",CCTV17
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/CCTV央视台球.png" group-title="央视",CCTV央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
+
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰中文.png" group-title="港澳频道",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/凤凰资讯.png" group-title="港澳频道",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://gitee.com/realstay/vtpi/raw/master/TVBS.png" group-title="卫视",tvbs
+http://37.27.111.214:8080/live/23/hls.m3u8
+#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东森新闻.png" group-title="港澳频道",东森新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv152
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" tvg-id="6143" tvg-name="台视新闻" group-title="港澳频道",台视新闻
+http://litv.zapi.us.kg/?id=4gtv-4gtv051
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东南卫视.png" group-title="卫视",东南卫视
+http://ottrrs.hl.chinamobile.com/PLYT/88888888/224/3221225620/index.m3u8
+
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI2.png" group-title="地方",湖北综合
+http://111.172.5.4:8888/rtp/239.69.1.42:9892
+
+#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI3.png" group-title="地方",湖北影视
+http://111.172.5.4:8888/rtp/239.69.1.204:10866
+
+#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI4.png" group-title="地方",湖北教育
+http://111.172.5.4:8888/rtp/239.69.1.206:10878
+
+#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="地方",湖北生活
+http://111.172.5.4:8888/rtp/239.69.1.205:10872
+
+#EXTINF:-1,tvg-id="湖北公共" tvg-name="湖北公共" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI7.png" group-title="地方",湖北公共
+http://111.172.5.4:8888/rtp/239.69.1.40:9880
+
+#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI8.png" group-title="地方",湖北经视
+http://111.172.5.4:8888/rtp/239.69.1.41:9886
+
+#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HBLS.png" group-title="地方",湖北垄上
+http://111.172.5.4:8888/rtp/239.69.1.43:9898
+
+#EXTINF:-1,tvg-id="山西影视" tvg-name="山西影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanxi.png" group-title="地方",山西影视
+http://110.177.146.171:888/udp/239.1.1.4:8004
+
+
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/江苏卫视.png" group-title="卫视",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/湖南卫视.png" group-title="卫视",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/北京卫视.png" group-title="北京",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/广西卫视.png" group-title="卫视",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/四川卫视.png" group-title="卫视",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/东方卫视.png" group-title="卫视",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/浙江卫视.png" group-title="卫视",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/天津卫视.png" group-title="卫视",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/安徽卫视.png" group-title="卫视",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/广东卫视.png" group-title="卫视",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/深圳卫视.png" group-title="卫视",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/湖北卫视.png" group-title="卫视",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/吉林卫视.png" group-title="卫视",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山东卫视.png" group-title="卫视",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/山西卫视.png" group-title="卫视",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/陕西卫视.png" group-title="卫视",陕西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/江西卫视.png" group-title="卫视",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/河南卫视.png" group-title="卫视",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/河北卫视.png" group-title="卫视",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/青海卫视.png" group-title="卫视",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/西藏卫视.png" group-title="卫视",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/新疆卫视.png" group-title="卫视",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/重庆卫视.png" group-title="卫视",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/厦门卫视.png" group-title="卫视",厦门卫视
+http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/云南卫视.png" group-title="卫视",云南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/贵州卫视.png" group-title="卫视",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/海南卫视.png" group-title="卫视",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+
+#EXTINF:-1,tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://jihulab.com/owen2000wy/taibiao/-/raw/main/安多卫视.png" group-title="卫视",安多卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
+
+
+
+
+
